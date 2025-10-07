@@ -1,9 +1,9 @@
-wcap
+[wcap 原地址]
 ====
 
 Simple and efficient screen recording utility for Windows.
 
-Get latest binary here: [wcap-x64.exe][] or [wcap-arm64.exe][]
+Get latest binary here: [汉化下载地址2025/10/07][] or [wcap-arm64.exe][]
 
 **WARNING**: Windows Defender or other AV software might report false positive detection
 
@@ -96,7 +96,8 @@ This is free and unencumbered software released into the public domain.
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as
 a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
-[wcap-x64.exe]: https://raw.githubusercontent.com/wiki/mmozeiko/wcap/wcap-x64.exe
+[汉化下载地址2025/10/07]: https://github.com/wuguo13842/wcap_Chinese-localization/releases/download/untagged-8ddbb9181380f86f3f45/wcap-x64.exe
+[wcap 原地址]: https://github.com/mmozeiko/wcap
 [wcap-arm64.exe]: https://raw.githubusercontent.com/wiki/mmozeiko/wcap/wcap-arm64.exe
 [wgc]: https://blogs.windows.com/windowsdeveloper/2019/09/16/new-ways-to-do-screen-capture/
 [MSMFH264]: https://docs.microsoft.com/en-us/windows/win32/medfound/h-264-video-encoder
